@@ -155,7 +155,7 @@ Male
 </tr>
 <tr>
 <td id="regstatus">
-
+<!--Alert message will display here-->
 </td>
 </tr>
 </table>

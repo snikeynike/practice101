@@ -1,5 +1,5 @@
 <?php
-$conn=mysqli_connect('localhost','root','sql','fishbook');
+$conn=mysqli_connect('localhost','root','','fishbook');
 
 if(mysqli_connect_error())
 	{
