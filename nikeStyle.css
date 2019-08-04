@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+body.bbackground{
+	background:#E9EBEE;
+	/*padding-left:90px;
+	padding-right:90px;*/}
+.backHeader{
+	background-color:#FFFFFF;
+	padding-top:16px;
+	width:100%;
+	}
+.mainHeader{
+	background-color: #3C5A98;
+	/*margin-top:16px;*/
+	width:100%;
+	height:82px;
+	border-bottom: 1px #000000 solid;
+	}
+	
+.subheader { background-color:#D3D3D3;
+			margin:0px;
+			width:auto;
+			height: 28px;
+			border-top-left-radius: 50px 50px;
+			border-bottom-left-radius: 50px 30px;
+			border-top-right-radius: 50px 50px;
+			border-bottom-right-radius: 50px 30px;
+			box-shadow: 0px 1px 4px #777777;}
+.logo{
+	float:left;
+	margin-left:20px; 
+	margin-top:10px;
+	height:65px;
+	}
+.register{
+	float: right;
+	margin-right: 20px;
+	}
+
+form.login {
+	float:right;
+	color:#FBFBFB;
+	margin-top:5px;
+	}
+input.login{
+	margin-right:10px;}
+a.login{ color:#93E0E6;
+		text-decoration:none;
+		}
+a.register{
+	color: #70BAF7;
+	text-decoration:none;
+	font-size:10px;
+	}
+p.terms{
+	font-size:12px;
+	}
+a.terms{
+	color: #70BAF7;
+	text-decoration:none;
+	}
+#lstname{
+	/*margin-left:10px;*/
+	}
+#inputSize{
+	width:403px;
+	height:40px;}
+#inputSize2{
+	height:40px;
+	}
+select.bday{
+	width:80px;
+	height:35px;
+	background:#FCFCFC;
+	border: 1px #C1C1C1 solid;
+	}
+table.menu { padding-left: 10px;}
+table.time { font-size:25px; 
+            text-align: center;
+			float:right;
+			margin-top:7px;
+			margin-right:13px; }
+td.menu{ border-right: solid 1px; color:#F807D9;
+		 width:100px;
+		 text-align:center;}
+td.menu:hover { background-color: #FC88E6;
+					  }
+a.menulink { text-decoration:none; 
+			 font-family: Verdana, sans-serif;
+			 }
+.yellow{ 
+background-color: yellow;
+}
+.footer{
+background-color: #3ABEF5;
+width:100%;
+height:30px;
+box-shadow: 0px 1px 5px #777777;
+position:fixed;
+bottom:0px;
+}
